@@ -1,0 +1,73 @@
+# Java-related files
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven directories
+.mvn/
+target/
+*.log
+
+# IDE directories and files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+*.lcov
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build files
+*.buildinfo
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Frontend specific
+piems-frontend/node_modules/
+piems-frontend/dist/
+piems-frontend/.vite/
+piems-frontend/*.log
+piems-frontend/.env.local
+piems-frontend/.env.development.local
+piems-frontend/.env.test.local
+piems-frontend/.env.production.local
